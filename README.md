@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**puushtab/puushtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris. I am specialized in Computer Science and AI.
+I am currently working on:
+- 🧠 A Neural Network Framework built from scratch in C++
+- 📘 A LLM classifying text according to the emotion embedded in it
+- 👓 Clairvoyance: Smart Glasses with a vocal assistant to help visually impaired individual in their home
 
-Here are some ideas to get you started:
+I have already worked on:
+- 🔢 A MNIST digit classifier
+- 🔵 Reinforcement Learning to optimize water irrigation surface
+- 🧍 A crowd physics simulation to study crowd dynamics and avoid stampedes
+- ↪️ A maze generator and solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you don't see one of these projects on my GitHub, I am still building it so it will come very soon.
+
+Feel free to contact me via my email or LinkedIn !
