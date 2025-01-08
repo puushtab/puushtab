@@ -12,6 +12,7 @@ I have already worked on:
 - 🧍 A crowd physics simulation to study crowd dynamics and avoid stampedes
 - ↪️ A maze generator and solver
 
-If you don't see one of these projects on my GitHub, I am still building it so it will come very soon.
+
+If you don't see one of these projects on my GitHub, it's because I'm still working on it, but it will be available very soon.
 
 Feel free to contact me via my email or LinkedIn !
