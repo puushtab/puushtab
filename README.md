@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome ! 🐧
 
 My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris. I am specialized in Computer Science and AI.
 I am currently working on:
