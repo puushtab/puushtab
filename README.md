@@ -2,10 +2,10 @@
 
 My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris. I am specialized in Computer Science and AI.
 I am currently working on:
-- 📘 A LLM classifying text according to the emotion embedded in it
 - 👓 Clairvoyance: Smart Glasses with a vocal assistant to help visually impaired individual in their home
 
 I have already worked on:
+- 📘 A LLM classifying text according to the emotion embedded in it
 - 🧠 A Neural Network Framework built from scratch in C++
 - 🔢 A MNIST digit classifier
 - 🔵 Reinforcement Learning to optimize water irrigation surface
