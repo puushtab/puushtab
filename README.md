@@ -5,7 +5,7 @@ I am currently working on:
 - 👓 **Clairvoyance**: Smart Glasses with a vocal assistant to help visually impaired individual in their home
 
 I have already worked on:
-- 🧴 **Skincaire** (🏆 Creativity Award – MIT Global AI Hackathon): An AI-powered skin outbreak tracker with a quantized LLM and trained vision model to recommend products and provide medical advice.
+- 🧴 **Skincaire** (🏆 _Creativity Award – MIT Global AI Hackathon_): An AI-powered skin outbreak tracker with a quantized LLM and trained vision model to recommend products and provide medical advice.
 - 🧠 A DNN Framework built from scratch in C++
 - 📘 A fine-tuned LLM classifying text according to the emotion embedded in it
 - 🔢 A MNIST digit classifier
