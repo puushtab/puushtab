@@ -2,7 +2,7 @@
 
 My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris. I am specialized in Computer Science and AI.
 I am currently working on:
-- 🌎 Graph Neural Network for Earthquake Phase Association (Stanford University Research Internship)
+- 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
   
 I have already worked on:
 - 👁️ Retina Vessel Image Segmentation 
