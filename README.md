@@ -1,6 +1,6 @@
 ## Welcome ! 🐧
 
-My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris. I am specialized in Computer Science and AI.
+My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris and VSR at Stanford University. I am specialized in Computer Science and Machine Learning.
 I am currently working on:
 - 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
   
@@ -19,4 +19,4 @@ I have already worked on:
 
 If you don't see one of these projects on my GitHub, it will be available very soon.
 
-Feel free to contact me via my email or LinkedIn !
+Feel free to contact me via my email or LinkedIn!
