@@ -14,6 +14,7 @@ I have already worked on:
 - 📘 A fine-tuned LLM classifying text according to the emotion embedded in it
 - 🔢 A MNIST digit classifier
 - 🔵 Reinforcement Learning to optimize water irrigation surface
+- 🏫 **SPO**: Web app in TypeScript and Node.js with MongoDB to track student attendance in class.
 - 🧍 A crowd physics simulation to study crowd dynamics and avoid stampedes
 - ↪️ A maze generator and solver
 
