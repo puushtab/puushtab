@@ -5,7 +5,10 @@ I am currently working on:
 - 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
   
 I have already worked on:
-- :atom: **FunkyJunction** (_Stanford MCP x Quantum Science Hackathon 2025_) : MCP-powered Superconducting Quantum Chip Builder 
+
+- 🏋️ **KettleMind** (🏆 _2nd/150+ - Eleven Lab prize - MIT Global AI Hackathon_): AI Conversational Kettlebell coach 
+- ✨ **GlowUp** (_Y Combinator AI Coding Agents Hackathon_): Pocket MBA AI Agent for launching a start-up successfully. (Automated market-research, pitch-deck, personal branding and reachout).
+- ⚛️ **FunkyJunction** (_Stanford MCP x Quantum Science Hackathon 2025_) : MCP-powered Superconducting Quantum Chip Builder 
 - 👁️ Retina Vessel Image Segmentation
 - 🍇**Grape Expectation**: A complete statistical learning pipeline to classify grape varieties from morphometric image features comparing Lasso, Clustering & PCA, Logistic Regression, SVM and XGBoost
 - 👓 **Clairvoyance**: Smart Glasses with a vocal assistant to help visually impaired individual in their home
