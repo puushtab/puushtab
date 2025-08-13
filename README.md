@@ -6,7 +6,7 @@ I am currently working on:
   
 I have already worked on:
 
-- 🏋️ **KettleMind** (🏆 _2nd/150+ - Eleven Lab prize - MIT Global AI Hackathon_): AI Conversational Kettlebell coach 
+- 🏋️ **KettleMind** (🏆 _2nd/150+ - Eleven Labs prize - MIT Global AI Hackathon_): AI Conversational Kettlebell coach 
 - ✨ **GlowUp** (_Y Combinator AI Coding Agents Hackathon_): Pocket MBA AI Agent for launching a start-up successfully. (Automated market-research, pitch-deck, personal branding and reachout).
 - ⚛️ **FunkyJunction** (_Stanford MCP x Quantum Science Hackathon 2025_) : MCP-powered Superconducting Quantum Chip Builder 
 - 👁️ Retina Vessel Image Segmentation
