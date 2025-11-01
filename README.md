@@ -3,11 +3,12 @@
 My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris and VSR at Stanford University. I am specialized in Computer Science and Machine Learning.
 I am currently working on:
 - 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
+- 🎵 Making the next AI musical agent at _Deezer_
   
 I have already worked on:
-
+- 🐦 **WhistleSpoter** (🏆 _1st/40+ teams - Centrale Supelec ML Hackathon_): Bird audio detector model using Perch model, models aggregation and negative sampling 
 - 🏋️ **KettleMind** (🏆 _2nd/150+ - Eleven Labs prize - MIT Global AI Hackathon_): AI Conversational Kettlebell coach 
-- ✨ **GlowUp** (_Y Combinator AI Coding Agents Hackathon_): Pocket MBA AI Agent for launching a start-up successfully. (Automated market-research, pitch-deck, personal branding and reachout).
+- ✨ **GlowUp** (_Y Combinator AI Coding Agents Hackathon_): Pocket MBA AI Agent for launching a start-up successfully (automated market-research, pitch-deck, personal branding and reachout)
 - ⚛️ **FunkyJunction** (_Stanford MCP x Quantum Science Hackathon 2025_) : MCP-powered Superconducting Quantum Chip Builder 
 - 👁️ Retina Vessel Image Segmentation
 - 🍇**Grape Expectation**: A complete statistical learning pipeline to classify grape varieties from morphometric image features comparing Lasso, Clustering & PCA, Logistic Regression, SVM and XGBoost
