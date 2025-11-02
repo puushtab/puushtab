@@ -21,7 +21,7 @@ I have already worked on:
 - 🏫 **SPO**: Web app in TypeScript and Node.js with MongoDB to track student attendance in class.
 - 🧍 A crowd physics simulation to study crowd dynamics and avoid stampedes
 - ↪️ A maze generator and solver
-
+- 🚥 Tron-themed small 2-players game
 
 If you don't see one of these projects on my GitHub, it will be available very soon.
 
