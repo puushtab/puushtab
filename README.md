@@ -2,8 +2,8 @@
 
 My name is Gabriel Dupuis, I am an engineering student at ENSTA Paris and VSR at Stanford University. I am specialized in Computer Science and Machine Learning.
 I am currently working on:
-- 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
 - 🎵 Making the next AI musical agent at _Deezer_
+- 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
   
 I have already worked on:
 - 🐦 **WhistleSpoter** (🏆 _1st/40+ teams - Centrale Supelec ML Hackathon_): Bird audio detector model using Perch model, models aggregation and negative sampling 
