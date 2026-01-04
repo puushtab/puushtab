@@ -19,7 +19,7 @@ I have already worked on:
 - 📘 An  fine-tuned LLM [classifying text according to the emotion embedded in it](https://github.com/puushtab/text-emotion-classifier)
 - 🔢 A MNIST digit classifier
 - 🔵 [Reinforcement Learning](https://github.com/puushtab/maximum-coverage-problem) to optimize water irrigation surface
-- 🏫 [**SPO**](https://github.com/ax-ri/spo): Web app in TypeScript and Node.js with MongoDB to track student attendance in class.
+- 🏫 [**SPO**](https://github.com/ax-ri/spo-public): Web app in TypeScript and Node.js with MongoDB to track student attendance in class.
 - 🧭 [SLAM system](https://github.com/puushtab/SLAM-for-drones) for drone navigation
 - 🧍 A [crowd physics simulation](https://github.com/puushtab/crowd-simulation) to study crowd dynamics and avoid stampedes
 - ↪️ A [maze generator](https://github.com/puushtab/maze-solver) and solver
