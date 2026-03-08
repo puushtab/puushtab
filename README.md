@@ -1,5 +1,6 @@
 ## Welcome ! 🐧
 
+FIND MY WEBSITE RIGHT HERE: [gabrieldupuis.me](https://gabrieldupuis.me)
 My name is Gabriel Dupuis, I am an ML Engineer at [Deezer](https://en.wikipedia.org/wiki/Deezer) in the Research & Data Science team, an engineering student at [ENSTA](https://www.ensta.fr/en) and VSR at [Stanford University](https://geophysics.stanford.edu/). I am specialized in Computer Science and Machine Learning.
 I am currently working on:
 - 🎵 Making the next AI musical agent at _Deezer_
