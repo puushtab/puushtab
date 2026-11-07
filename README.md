@@ -2,12 +2,11 @@
 
 My website: ▶️[gabrieldupuis.me](https://gabrieldupuis.me)◀️
 
-My name is Gabriel Dupuis, I am an ML Engineer at [Deezer](https://en.wikipedia.org/wiki/Deezer) in the Research & Data Science team, an engineering student at [ENSTA](https://www.ensta.fr/en) and VSR at [Stanford University](https://geophysics.stanford.edu/). I am specialized in Computer Science and Machine Learning.
-I am currently working on:
-- 🎵 Making the next AI musical agent at _Deezer_
-- 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
-  
+My name is Gabriel Dupuis, I am a Harvard CSE Student and was AI Resident at Google X, ML Engineer at [Deezer](https://en.wikipedia.org/wiki/Deezer) in the R&D team, CS BSc student at [ENSTA](https://www.ensta.fr/en) & VSR at [Stanford University](https://geophysics.stanford.edu/). I am specialized in Computer Science and Machine Learning.
+
 I have already worked on:
+- 🎵 Consort, AI musical multi-agent chatbot at _Deezer_
+- 🌎 Graph Neural Network for Earthquake Phase Association (_Stanford University Research Internship_)
 - 🐨 [**Koala**](https://github.com/puushtab/koala) (_X-HEC Impact Hackathon finalist_): Second-hand AI-powered shopping platform using an MCP Server and Vinted API
 - 🐦 [**WhistleSpoter**](https://github.com/puushtab/whistle-spotter) (🏆 _1st/40+ teams - Centrale Supelec ML Hackathon_): Bird audio detector model using Perch model, models aggregation and negative sampling 
 - 🏋️ [**KettleMind**](https://github.com/puushtab/KettleMind) (🏆 _2nd/150+ - Eleven Labs prize - MIT Global AI Hackathon_): AI Conversational Kettlebell coach 
